@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Deven Watsica Sr.",
+        "email": "ghettinger@example.org",
+        "phone": "+1-332-868-0033",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 2,
+        "name": "Kathryn Zemlak IV",
+        "email": "shane64@example.com",
+        "phone": "(470) 486-2615",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 3,
+        "name": "Prof. Zachery Schaefer V",
+        "email": "ona.maggio@example.org",
+        "phone": "857.379.2389",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 4,
+        "name": "Gwendolyn Runolfsdottir",
+        "email": "rory.bernier@example.org",
+        "phone": "740-762-6854",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 5,
+        "name": "Alfred Heidenreich Sr.",
+        "email": "tillman.melyna@example.org",
+        "phone": "551.567.2470",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 7,
+        "name": "Vita Zemlak",
+        "email": "akovacek@example.net",
+        "phone": "551-858-9945",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 8,
+        "name": "Tr\u01b0\u01a1ng Nh\u1ea5t Tr\u00ed Updated",
+        "email": "nhattri@example.com",
+        "phone": "0987654321",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:50:08.000000Z"
+    },
+    {
+        "id": 9,
+        "name": "Saul McCullough",
+        "email": "kassulke.abigayle@example.org",
+        "phone": "+1-662-417-3883",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 10,
+        "name": "Nona Olson",
+        "email": "jayce.gaylord@example.com",
+        "phone": "623.698.5346",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:29:18.000000Z",
+        "updated_at": "2025-03-22T14:29:18.000000Z"
+    },
+    {
+        "id": 11,
+        "name": "Nguy\u1ec5n V\u0103n A",
+        "email": "vana@example.com",
+        "phone": "0901234567",
+        "manager_id": null,
+        "created_at": "2025-03-22T14:47:49.000000Z",
+        "updated_at": "2025-03-22T14:47:49.000000Z"
+    }
+]
